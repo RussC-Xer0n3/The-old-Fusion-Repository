@@ -1,0 +1,32 @@
+// This one seems more stable
+
+/**
+* Some theoretical physics regarding fusion to pass the day by. 
+* @Author Russell Clarke SD200984 aka Rusher
+* Listening to 'I wish I had Duck Feet' by Orbital.
+* v3.1.1
+*/
+
+import java.math.*;
+
+public class Main
+{
+	public static void main(String[] args)
+	{
+		double va = Math.PI;
+		System.out.println(va); /* Check the value of PI in Java Math */
+		
+		double r = 0.01; /* Let's set a radius (in nm) and imagine it is constrained as a small ball of energy to see what happens. */
+		
+		double q = (va*(r*3)); /* PI cubed since it needs to be. */
+		System.out.println(q); /* Get the current value in nm3. */
+		
+		
+		
+		/* THE ALGORITHM PART*/
+
+		for(double i = (((q*q)*3)-(3/(q*q))); i<=i; i++){
+			System.out.println(i); /* Though technically there should only be energy as the output, the numbers should start to represent what's happening inside and out. */
+		}
+	}
+}

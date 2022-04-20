@@ -1,0 +1,38 @@
+//something weird happened NaN
+
+/**
+* Some theoretical physics regarding fusion to pass the day by. 
+* @Author Russell Clarke SD200984 aka Rusher
+* Listening to 'slayed' by Overseer.
+* v3.1.3
+*/
+
+import java.math.*;
+
+public class nan
+{
+	public static void main(String[] args)
+	{
+		double va = Math.PI;
+		System.out.println(va); /* Check the value of PI in Java Math */
+
+		double r = 0.01;
+		
+		double q = (va*(r*3))*3; /* PI cubed since it needs to be. */
+		/* ORIGINAL MATH IS : double q = (va*(r))*3; \/* PI cubed since it needs to be. *\/ and IS FOR THE OTHERS */
+		
+		System.out.println(q); /* Get the current value in nm3. */
+
+		
+		
+		/* THE ALGORITHM PART */
+
+		for(double i = ((q/(q%(q))*((q)%q)*q))*q; i<=i; i++){
+			System.out.println(i);
+			
+			/**Though technically there should only be energy as the output,
+			*  the numbers should start to represent what's happening inside and out. 
+			*/
+		}
+	}
+}

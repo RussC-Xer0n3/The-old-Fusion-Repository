@@ -1,0 +1,23 @@
+#! /usr/env/bin python
+
+#
+#
+#
+#
+#
+
+pi = 3.14159265359
+radius = 0.01
+
+sphere = pi*((radius)*3) # Spherical
+
+print(sphere) # Area of sphere in Nano Meteres cubed.
+
+q = (sphere ** sphere)**8
+return q
+
+# print(q) commenting out.
+
+exit(0)
+
+#Note to self could need a loop.

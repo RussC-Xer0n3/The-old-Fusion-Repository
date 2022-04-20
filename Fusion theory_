@@ -1,0 +1,26 @@
+/* russell clarke - rusher - sd200984 */
+/* Version 2.0 */
+
+
+/* DO NOT USE THIS CODE */
+import java.Math;
+
+FloatBuffer buf = new FloatBUffer();
+    
+    Float rad = 25000.0000000000; /*kilometers circumference of the earth approx*/
+    Float PI.Math = PI.Math;
+    
+    /*--------*/
+    Float va = (PI.Math*(rad))**3);
+    
+    /*  float va = (math.Pi*(rad*3));  */
+    /*  float va = math.Pow((math.Pi*(rad)), 3);  */
+    /*  float va = math.Pow((math.Pi*(rad*3)), 3);  */
+
+    buf(va);
+
+    for(i=0; va**va; i++){//control vetor(s)
+
+   //Control vector(s) } /*important*/
+    
+/* DO NOT USE THIS CODE */
