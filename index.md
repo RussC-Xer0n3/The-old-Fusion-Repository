@@ -2,7 +2,7 @@
 ## Investigating helictical equilateral infinite loops
 
 ### Is it really fusion?
-Yes and No. Let's imagine what is happening in real life fusion, the sun for example is producing and burning hydrogen amongst other gasses. As such the sunn is self-reinforcing it's size (almost) and it's existence by producing what it consumes to stay hot and volatile.
+Yes and No. Let's imagine what is happening in real life fusion, the sun for example is producing and burning hydrogen amongst other gasses. As such the sun is self-reinforcing it's size (almost) and it's existence by producing what it consumes to stay hot and volatile.
 
 ### So what's the project about if it isn't fusion?
 Glad you asked, I simply called the project fusion for several reasosns
