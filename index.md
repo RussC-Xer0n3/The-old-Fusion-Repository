@@ -58,3 +58,23 @@ public class nan
 
 ### What next?
 Well that really is as far as I wanted to take the project, I acheived hat i set out to acheive, initially prioviked by [the russian wedding rings](https://russc-xer0n3.github.io/The-Russian-Wedding-Rings) and spurred on by the sun and how it's convection currents might work, I got my answer. There are a few warnings in the README.md file of the repository I suggest you read first as a few tests were performed, including a networked running at the epicentre of Lacey's in Weymouth where I was staying a while ago, back in 2019. It was run whilst I was networked via the TV which was connected to the scart and via ethernet (Had to very quickly pull the plug when I realised the stupidity). EEEEEP!
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta charset="UTF-8">
+    <meta name="description" content="Projects and Portfolio">
+    <meta name="keywords" content="HTML, CSS, JavaScript, PHP, MySQLi, Python, Java, C, C++, C#, Time, Shapes">
+    <meta name="author" content="Russell Clarke">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find me on social media.</p>
+  <a href="https://www.facebook.com/profile.php?id=100075972987666"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
+  <a href="https://www.instagram.com/russellclarke821"><i class="fa fa-instagram w3-hover-opacity"></i></a>
+  <a href="https://www.pinterest.co.uk/russellclarke821/"><i class="fa fa-pinterest-p w3-hover-opacity"></i></a>
+  <a href="https://twitter.com/Developing821"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+  <a href="https://www.linkedin.com/in/russell-clarke-09a1a5238"></a><i class="fa fa-linkedin w3-hover-opacity"></i>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
