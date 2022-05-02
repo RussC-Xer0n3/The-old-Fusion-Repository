@@ -12,7 +12,7 @@ Glad you asked, I simply called the project fusion for several reasosns
 - I broke the rules of coding standards and used an infinite loop which has some surprising effects on a piece of hardware
 
 ### What happened?
-Something weird happened on my old [Sony Xperia G331](https://www.sony.com/). I was using [AIDE Android App](https://play.google.com/store/apps/details?id=com.aide.ui&gl=US) (because everone who is anyone in dev world knows [AIDE App](https://play.google.com/store/apps/details?id=com.aide.ui&gl=US) is awesome) and left the code running without the signals blasting out everywhere (safety first) and what could best be described as a logical display occurred. That lead me to beleieve I had managed to create a piece of code which is both logically and spherically sound.
+Something weird happened on my old [Sony Xperia G331](https://www.sony.com/). I was using [AIDE Android App](https://play.google.com/store/apps/details?id=com.aide.ui&gl=US) (because everone who is anyone in dev world knows [AIDE App](https://play.google.com/store/apps/details?id=com.aide.ui&gl=US) is awesome) and left the code running without the signals blasting out everywhere (safety first) and what could best be described as a logical display occurred. That lead me to believe I had managed to create a piece of code which is both logically and spherically sound, equillibrious if you prefer.
 
 ### from [NaN](https://github.com/RussC-Xer0n3/The-old-Fusion-Repository/blob/main/NaN)
 ```
